@@ -37,7 +37,7 @@
 
 
 ## 📖 More information
-![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default)
+
 <b>Blog : <a href=https://kafkaontheshore.tistory.com>해변의 카프카의 개발일기</a>
 </b>
 

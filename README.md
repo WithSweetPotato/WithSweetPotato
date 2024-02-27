@@ -2,7 +2,7 @@
 
 - ## 포트폴리오
 -
-- [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://alder-waltz-e64.notion.site/bfb4be71d8db458796bcceae0614ce80)
+<!--[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://alder-waltz-e64.notion.site/bfb4be71d8db458796bcceae0614ce80)-->
 
 ## 블로그
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default)]([https://kafkaontheshore.tistory.com/])
@@ -21,10 +21,12 @@
 
 ## 📖 More information
 
-<b>Blog : <a href=https://kafkaontheshore.tistory.com/>해변의 카프카의 개발일기</a>
+<b>Blog : <a href=https://kafkaontheshore.tistory.com>해변의 카프카의 개발일기</a>
+</b>
+<b>Blog : <a href=https://angelplayer.tistory.com>AngelPlayer`s Diary</a>
 </b>
 
- - <b>Portfolio : <a href=https://angelplayer.notion.site/SeungHeon-Shin-a3d2c54fe44444ff9a2453f47f99e415>신승헌 | SeungHeon Shin</a></b>
+<!--<b>Portfolio : <a href=https://angelplayer.notion.site/SeungHeon-Shin-a3d2c54fe44444ff9a2453f47f99e415>신승헌 | SeungHeon Shin</a></b>-->
 
 ## Contact me
 

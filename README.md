@@ -15,8 +15,7 @@
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### I've also experienced it
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-!
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 📖 More information

@@ -33,11 +33,11 @@
 라즈베리파이
 ESP32
 
-
 ## 📖 More information
-
+![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default)
 <b>Blog : <a href=https://kafkaontheshore.tistory.com>해변의 카프카의 개발일기</a>
 </b>
+
 
 <!--<b>Portfolio : <a href=https://angelplayer.notion.site/SeungHeon-Shin-a3d2c54fe44444ff9a2453f47f99e415>신승헌 | SeungHeon Shin</a></b>-->
 

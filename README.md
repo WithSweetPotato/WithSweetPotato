@@ -4,7 +4,7 @@
 -
 <!--[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://alder-waltz-e64.notion.site/bfb4be71d8db458796bcceae0614ce80)-->
 
-## 블로그
+## 개인 블로그
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default)](https://kafkaontheshore.tistory.com/)
 
 

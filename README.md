@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=남현준%20입니다!%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20Walter's%20GitHub!&descAlignY=60&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=남현준%20입니다!%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%남현준의%20깃허브에%20오신것을%20환영합니다.&descAlignY=60&descAlign=62"/>
 
 # 안녕하세요! 해내는 개발자 남현준입니다.  
 - 강원대학교 전자정보통신공학부 정보통신공학심화전공 졸업(2024.02)

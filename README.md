@@ -1,16 +1,12 @@
 # 안녕하세요! 해내는 개발자 남현준입니다.  
   
   
-### 저는 연구실 학부연구생(랩장)을 하며 
-
-핵심 역량<br /><br />
+### 핵심 역량
 - 연구실에서 2년간 랩장을 하며 과제제안, 보고 및 기획, 개발 업무를 수행했습니다
 - 영어로 비즈니스 소통이 가능합니다. 영어로 연구팀 리딩, 과제 발표를 수행했습니다
 - 해커톤 2위, 창업동아리 우승(AI개발), 교내/외 다수 대회에서 수상하였습니다.
 - 파이썬으로 풀스택 웹개발 및 파싱, 해시 검증 등의 개발을 하였습니다.
 - 비전공자들과 개발 관련 캠프에서 1등(최우수상)을 수상했습니다
-I'm <b>Seungheon Shin</b>, a developer with various interests such as Web, AI, Social Issues, and Design.<br /><br />
-I'm a <b>Front-End Developer</b> who dreams of becoming a <b>Full-Stack Developer</b>.
 
 <br /><br />
 

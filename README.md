@@ -1,4 +1,3 @@
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=남현준%20입니다!%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20Walter's%20GitHub!&descAlignY=60&descAlign=62"/>
 
 # 안녕하세요! 해내는 개발자 남현준입니다.  

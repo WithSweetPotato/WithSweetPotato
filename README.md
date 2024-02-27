@@ -1,4 +1,7 @@
-# 안녕하세요! 해내는 개발자 남현준입니다.
+# 안녕하세요! 해내는 개발자 남현준입니다.  
+  
+  
+### 저는 연구실 학부연구생(랩장)을 하며  
 
 <!-- ## 포트폴리오-->
 <!--[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://alder-waltz-e64.notion.site/bfb4be71d8db458796bcceae0614ce80)-->
@@ -17,6 +20,7 @@
 
 ### I've also experienced it
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-BDCCE2?style=for-the-badge&logo=git&logoColor=white)
 라즈베리파이
 ESP32
 

@@ -14,10 +14,7 @@
 - 파이썬으로 풀스택 웹개발 및 JSON파싱, Md5해시 검증, 압축 해제, RDBMS연동 등의 개발을 하였습니다.
 - 비전공자들과 개발 관련 캠프에서 1등(최우수상, 팀장)을 수상했습니다.
 
-<br /><br />
-
-<!-- ## 포트폴리오-->
-<!--[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://.notion.site/bfb4be71d8db458796bcceae0614ce80)-->
+<br />
 
 ## Tech Stack
 

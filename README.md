@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 # 안녕하세요! 해내는 개발자 남현준입니다.  
 - 강원대학교 전자정보통신공학부 정보통신공학심화전공 졸업(2024.02)
 - 강원대학교 회로및시스템설계연구실 학생연구팀장(랩장),(2022.05 ~ 현재)

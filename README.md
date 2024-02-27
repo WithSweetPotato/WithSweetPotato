@@ -1,12 +1,10 @@
 # 안녕하세요! 해내는 개발자 남현준입니다.
 
-- ## 포트폴리오
--
+<!-- ## 포트폴리오-->
 <!--[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://alder-waltz-e64.notion.site/bfb4be71d8db458796bcceae0614ce80)-->
 
 ## 개인 블로그
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default)](https://kafkaontheshore.tistory.com/)
-
 
 ## Tech Stack
 
@@ -17,7 +15,8 @@
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### I've also experienced it
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+!
 
 
 ## 📖 More information
